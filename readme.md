@@ -32,9 +32,13 @@ Totes les parts s’han dissenyat amb una impressora 3D, i els fitxers es troben
 Agraïments:
 
 A MJ pel suport 🙏
+
 A Isa per les idees 💡
+
 A Ferreteria Provença per les peces que em van regalar per fer proves en el projecte 🏪
-Suport: Si voleu ajudar en el desenvolupament, podeu donar per PayPal, comprar els meus llibres, el merchandising, escoltar la meva música, etc. Podeu visitar el següent enllaç per fer-ho: https://linktr.ee/xadamai 💖
+
+Suport:
+Si voleu ajudar en el desenvolupament, podeu donar per PayPal, comprar els meus llibres, el merchandising, escoltar la meva música, etc. Podeu visitar el següent enllaç per fer-ho: https://linktr.ee/xadamai 💖
 
 Moltes gràcies a tots i espero que això us sigui d’utilitat en els vostres projectes o per gaudir una mica més de la música. 🎵😊
 
