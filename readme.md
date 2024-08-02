@@ -4,7 +4,7 @@ I came up with a system to help people with reduced mobility play the violin. Th
 
 The system uses Arduino, lots of Dupont cables, servomotors, stepper motors, and especially many screws. Each servomotor that imitates the bow is connected to a stepper motor to rotate a disc to mimic the bow, and this is placed over one of the violin strings. 🎶🔧
 
-All parts have been designed with a 3D printer, and the files are available for free on Thingiverse. This is a prototype and is in constant progress. 🛠️📈
+All parts have been designed with a 3D printer, and the files are available for free on Thingiverse on this link: https://www.thingiverse.com/thing:6717599. This is a prototype and is in constant progress. 🛠️📈
 
 Acknowledgements:
 
