@@ -9,8 +9,12 @@ All parts have been designed with a 3D printer, and the files are available for 
 Acknowledgements:
 
 To MJ for the support 🙏
+
 To Isa for the ideas 💡
+
 To Ferreteria Provença for the parts they donated for testing the project 🏪
-Support: If you want to help with the development, you can donate via PayPal, buy my books, merchandise, listen to my music, etc. You can visit the following link to do so: https://linktr.ee/xadamai 💖
+
+Support: 
+If you want to help with the development, you can donate via PayPal, buy my books, merchandise, listen to my music, etc. You can visit the following link to do so: https://linktr.ee/xadamai 💖
 
 Thank you all very much, and I hope this is useful for your projects or to enjoy music a little more. 🎵😊
