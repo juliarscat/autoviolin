@@ -10,7 +10,7 @@ Acknowledgements:
 
 To MJ for the support 🙏
 
-To Isa for the ideas 💡
+To Isa Torres for the ideas 💡
 
 To Ferreteria Provença for the parts they donated for testing the project 🏪
 
@@ -33,7 +33,7 @@ Agraïments:
 
 A MJ pel suport 🙏
 
-A Isa per les idees 💡
+A Isa Torres per les idees 💡
 
 A Ferreteria Provença per les peces que em van regalar per fer proves en el projecte 🏪
 
